@@ -10,4 +10,4 @@
 - 📫 How to reach me: namansharma232009@gmail.com
 - 😄 Pronouns: naman
 - ⚡ Fun fact: i am in 7th grade
-my website - naman23-coder.github.io
+- my website - https://www.naman23-coder.github.io
