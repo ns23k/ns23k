@@ -1,8 +1,6 @@
 ### Hi there 👋 i am Naman 🆒
 
 
-**Naman23-coder/Naman23-coder** is a ✨ _special_ ✨ 
-
 
 - 🔭 I’m curruently in school
 - 🌱 I’m currently learning Python
@@ -12,4 +10,4 @@
 - 📫 How to reach me: namansharma232009@gmail.com
 - 😄 Pronouns: naman
 - ⚡ Fun fact: i am in 7th grade
-
+my website - naman23-coder.github.io
