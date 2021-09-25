@@ -15,3 +15,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Naman23-coder&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naman23-coder)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naman23-coder&theme=dark)](https://git.io/streak-stats)
