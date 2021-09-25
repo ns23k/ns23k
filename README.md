@@ -12,3 +12,4 @@
 - ⚡ Fun fact: i am in 7th grade
 - my website - https://www.Naman23-coder.github.io
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman23-coder&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Naman23-coder&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
