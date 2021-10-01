@@ -19,6 +19,11 @@
 
 Languages:-
 Python
+
 Hindi
+
 English
+
 Punjabi
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=665ep0vcac5hsh5m4vicpp392&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=665ep0vcac5hsh5m4vicpp392&redirect=true)
