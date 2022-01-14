@@ -1,4 +1,6 @@
-### Hi there 👋 i am Naman 🆒
+
+![](https://komarev.com/ghpvc/?username=Naman23-coder&color=green)
+### Hi there 👋 i am Naman �
 - 🔭 I’m curruently in school
 - 📫 How to reach me: namansharma232009@gmail.com
  
