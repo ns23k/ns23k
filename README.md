@@ -3,7 +3,7 @@
 ### Hi there 👋 i am Naman �
 - 🔭 I’m curruently in school
 - 📫 How to reach me: namansharma232009@gmail.com
- 
+- Join my awesome [discord server](bit.ly/thenerdsden)
 ## languages and tools
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="height: 100px; width:100px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" style="height: 100px; width:100px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="height: 100px; width:100px;"/><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-octocat.svg" alt="Github" style="height: 100px; width:100px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome" style="height: 100px; width:100px;"/><img src="https://www.pygame.org/images/logo_lofi.png" alt="Pygame" style="height: 100px; width:250px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" style="height: 100px; width:100px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" style="height: 100px; width:100px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="height: 100px; width:100px;"/>
 
