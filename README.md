@@ -14,4 +14,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naman23-coder&theme=dark)](https://git.io/streak-stats)
 
-#reach Me
+# Reach Me
+Naman_Sharma#6808 @[discord](https://www.discord.com)
