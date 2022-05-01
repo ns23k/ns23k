@@ -14,5 +14,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naman23-coder&" alt="naman23-coder" /></p>
 
 # Reach Me
-Naman_Sharma#6808 @[discord](https://www.discord.com)
+Naman_Sharma#6806 @[discord](https://www.discord.com)
 
