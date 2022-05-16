@@ -15,3 +15,4 @@
 # Reach Me
 Naman_Sharma#6806 @[discord](https://www.discord.com)
 
+![](https://dcbadge.vercel.app/api/shield/naman_sharma#6806)
