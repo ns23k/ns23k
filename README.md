@@ -8,9 +8,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman23-coder&show_icons=true&locale=en&layout=compact" alt="naman23-coder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman23-coder&show_icons=true&locale=en" alt="naman23-coder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naman23-coder&" alt="naman23-coder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman23-coder&count_private=true&theme=dracula" alt="naman23-coder" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naman23-coder&theme=dark" alt="naman23-coder" /></p>
 
 # Reach Me
 Naman_Sharma#6806 @[discord](https://www.discord.com)
