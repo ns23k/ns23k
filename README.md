@@ -14,7 +14,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naman23-coder&theme=dark" alt="naman23-coder" /></p>
 
+<img src="https://raw.githubusercontent.com/Naman23-coder/profile/main/github-metrics.svg"/>
+
 # Reach Me
 Naman_Sharma#6806 @[discord](https://www.discord.com)
 
-![](https://dcbadge.vercel.app/api/shield/naman_sharma#6806)
+
