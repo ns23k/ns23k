@@ -10,11 +10,10 @@ Busy in school probably
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ns23k&count_private=true&theme=dracula" alt="naman23-coder" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ns23k&theme=dark" alt="naman23-coder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ns23k&theme=dark" alt="ns23k" /></p>
 
 <img src="https://raw.githubusercontent.com/Naman23-coder/profile/main/github-metrics.svg"/>
 
 # Reach Me
-Naman_Sharma#6806 @[discord](https://www.discord.com)
 
 
