@@ -13,7 +13,3 @@ Busy in school probably
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ns23k&theme=dark" alt="ns23k" /></p>
 
 <img src="https://raw.githubusercontent.com/Naman23-coder/profile/main/github-metrics.svg"/>
-
-# Reach Me
-
-
